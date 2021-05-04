@@ -12,7 +12,7 @@ The code from the TAs are in `TA_predictCOVID.ipynb`, to create your environment
 
 More information on student processing and image outputs are in the `student_process_outputs` folder. The students final presentation can be found in `finalpresentation.pdf`. 
 
-Repo
+Repo \
  ┣ 📂 student_process_outputs \
  ┃ ┣ 📜 Data Cleaning Process.docx \
  ┃ ┣ 📜 Task List.pdf \
