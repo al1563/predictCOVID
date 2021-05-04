@@ -23,5 +23,5 @@ Repo \
  ┣ 📜 data_information.docx \
  ┣ 📜 finalpresentation.pdf \
  ┣ 📜 *readme.md* \
- ┗ 📜 requirements.txt \
+ ┗ 📜 requirements.txt 
 
